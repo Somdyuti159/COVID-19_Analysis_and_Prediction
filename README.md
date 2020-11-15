@@ -1,4 +1,4 @@
-# COVID-19_Analysis_and_Prediction
+# COVID-19 Analysis and Prediction
 COVID-19 Visualization and Prediction using different ML algorithms. The complete analysis is done of the COVID-19 situation in many countries all over the world. A comparative study of the accuracy of different ML algorithms is done.
 
 
